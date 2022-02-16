@@ -1,8 +1,5 @@
-import asyncio
 from config import API_ID, API_HASH
 from pyrogram import Client
-
-chat_id = 000000000
 
 
 def get_dialogs():
